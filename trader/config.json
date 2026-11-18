@@ -2,7 +2,7 @@
   "budget": 100000,
   "cash_buffer_pct": 10,
   "max_position_pct": 75,
-  "max_order_usd": 80000,
+  "max_order_usd": 25000,
   "min_order_usd": 5,
   "max_loss_per_trade_usd": 500,
   "max_daily_loss_usd": 1500,
